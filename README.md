@@ -60,11 +60,11 @@
 
 Скриншоты:
 
-<img src="screenshots/task1\_constructors.png" alt="Конструкторы" width="700">
+<img src="screenshots/task1_constructors.png" alt="Конструкторы" width="700">
 
-<img src="screenshots/task1\_properties.png" alt="Свойства" width="700">
+<img src="screenshots/task1_properties.png" alt="Свойства" width="700">
 
-<img src="screenshots/task1\_subtract.png" alt="Вычитание" width="700">
+<img src="screenshots/task1_subtract.png" alt="Вычитание" width="700">
 
 <details>
 <summary>Текстовый вывод программы</summary>
@@ -161,15 +161,15 @@ B.Subtract(A) = 0 руб. 00 коп.  (меньше нуля быть не мо�
 
 Скриншоты:
 
-<img src="screenshots/task2\_constructors.png" alt="Конструкторы и свойства" width="700">
+<img src="screenshots/task2_constructors.png" alt="Конструкторы и свойства" width="700">
 
-<img src="screenshots/task2\_subtract.png" alt="Subtract" width="700">
+<img src="screenshots/task2_subtract.png" alt="Subtract" width="700">
 
-<img src="screenshots/task2\_increment.png" alt="++ и --" width="700">
+<img src="screenshots/task2_increment.png" alt="++ и --" width="700">
 
-<img src="screenshots/task2\_conversions.png" alt="Приведение типов" width="700">
+<img src="screenshots/task2_conversions.png" alt="Приведение типов" width="700">
 
-<img src="screenshots/task2\_minus.png" alt="Бинарный минус" width="700">
+<img src="screenshots/task2_minus.png" alt="Бинарный минус" width="700">
 
 <details>
 <summary>Текстовый вывод программы</summary>
